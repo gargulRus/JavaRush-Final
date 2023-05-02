@@ -22,4 +22,6 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+Task 2 Removing VK, Yandex
+Task 3 Added Environment Properties
+Task 5 Added ProfileRestControllerTests
